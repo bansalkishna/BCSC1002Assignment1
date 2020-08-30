@@ -8,4 +8,5 @@ package definitions;
 
 import java.util.Arrays;
 
-}
+public class Library {
+    }
