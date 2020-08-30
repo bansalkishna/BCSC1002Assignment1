@@ -6,5 +6,5 @@
  * */
 package definitions;
 
-public class Book {
-}
+import java.util.Objects;
+
